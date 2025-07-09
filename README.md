@@ -29,5 +29,4 @@ Hospital readmissions within 30 days can indicate poor care or discharge plannin
 
 ---
 
-## 🗂️ Project Structure
 
